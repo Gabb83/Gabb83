@@ -1,19 +1,19 @@
-### Olá, eu me chamo Gabriel 😄
+## Olá, eu me chamo Gabriel 😄
 
-Habilidades
+## Habilidades
 
-#### <h3 style="text-align:center">Tecnologias que estou usando</h3>
+<h3 style="text-align:center">Tecnologias que estou usando</h3>
 _______________________________________________
 
-Linguagens:
+#### Linguagens:
 
-Outros:
+#### Outros:
 
 
 
-#### Tecnologias que estou aprendendo
+### Tecnologias que estou aprendendo
 _______________________________________________
 
-Linguagens:
+#### Linguagens:
 
-IDE's:
+#### IDE's:
