@@ -2,18 +2,18 @@
 
 Habilidades
 
-Tecnologias que estou usando
+#### + + + + + Tecnologias que estou usando + + + + +
 _______________________________________________
 
 Linguagens:
 
 Outros:
-<div>
- <p>oi</p>
-</div>
 
 
 
-Tecnologias que estou aprendendo
+#### Tecnologias que estou aprendendo
 _______________________________________________
 
+Linguagens:
+
+IDE's:
