@@ -4,7 +4,8 @@
 ### Tecnologias que estou usando
 _______________________________________________
 
-##### 💻 Linguagens:
+<p>💻 Linguagens:</p>
+
 <div class="linguagens">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
     alt="html5" algin="center">
@@ -16,7 +17,7 @@ _______________________________________________
     alt="c" algin="center">
 </div>
 
-##### 💡 IDE's e outros:
+<p>💡 IDE's e outros:</p>
 
 <div class="ide">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
@@ -30,7 +31,8 @@ _______________________________________________
 ### Tecnologias que estou aprendendo
 _______________________________________________
 
-###### 💻 Linguagens:
+<p>💻 Linguagens:</p>
+
 <div class="linguagens">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
     alt="javascript" algin="center">
@@ -42,7 +44,8 @@ _______________________________________________
     alt="java" align="center">
 </div>
 
-###### 💡 IDE's e outros:
+<p>💡 IDE's e outros:</p>
+
 <div class="ide">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
     alt="eclipse" algin="center">
