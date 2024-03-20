@@ -2,7 +2,7 @@
 
 Habilidades
 
-#### <h3 style="align: center">Tecnologias que estou usando</h3>
+#### <h3 style="text-align:center">Tecnologias que estou usando</h3>
 _______________________________________________
 
 Linguagens:
