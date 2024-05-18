@@ -1,9 +1,12 @@
 ## Olá, eu me chamo Gabriel 😄
 
 ## Habilidades 📈📊
-### Tecnologias que estou usando
-_______________________________________________
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabb83&show_icons=true&theme=tokyonight">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb83&layout=compact&theme=tokyonight">
+</div>
 
+### Tecnologias que estou usando
 <p>💻 Linguagens:</p>
 
 <div class="linguagens">
