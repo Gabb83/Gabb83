@@ -1,4 +1,4 @@
-## Olá, eu me chamo Gabriel 😄
+## Olá, eu me chamo Gabriel
 
 ## Habilidades 📈📊
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
