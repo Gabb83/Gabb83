@@ -1,6 +1,5 @@
 ## Olá, eu me chamo Gabriel
 
-## Habilidades 📈📊
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabb83&show_icons=true&theme=tokyonight">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb83&layout=compact&theme=tokyonight">
