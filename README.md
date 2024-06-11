@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb83&layout=compact&theme=tokyonight">
 </div>
 
-## 🎃 Tecnologias ☄
+## 🎃 Tecnologias 🤓
 ### Tecnologias que estou usando 
 <div class="linguagens" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
