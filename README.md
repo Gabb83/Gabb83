@@ -38,6 +38,6 @@
 </div>
 
 ### Tecnologias com Certificados ###
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/git/gabriel-evangelista-de-almeida">
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/git/gabriel-evangelista-de-almeida" target="_blank">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
   </a>
