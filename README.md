@@ -36,3 +36,8 @@
     alt="eclipse" algin="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+### Tecnologias com Certificados ###
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/git/gabriel-evangelista-de-almeida">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+  </a>
