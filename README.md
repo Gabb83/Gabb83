@@ -6,6 +6,21 @@
 </div>
 
 ## 🎃 Tecnologias 🌟
+### Tecnologias Certificadas
+<a href="https://www.devmedia.com.br/certificado/tecnologia/java/gabriel-evangelista-de-almeida">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="java" align="center" height="30px">
+  </a>
+  <br><br>
+<div class="linguagens">
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/sql/gabriel-evangelista-de-almeida">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="margin-top:80px;">
+  </a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/git/gabriel-evangelista-de-almeida" target="_blank">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+  </a>
+<div>
+  
 ### Tecnologias que estou usando 
 <div class="linguagens" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -21,12 +36,9 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
     alt="vscode" algin="center">
 </div>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="margin-top:80px;">
 
-### Tecnologias que estou aprendendo
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-    alt="java" align="center" height="30px">
-    
+
+### Tecnologias que estou aprendendo  
 <div class="linguagens" style="display: flex; align-itens: center; justify-content: center;">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
     alt="javascript" algin="center">
@@ -34,10 +46,6 @@
     alt="c" algin="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
     alt="eclipse" algin="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Tecnologias com Certificados ###
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/git/gabriel-evangelista-de-almeida" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-  </a>
+  
