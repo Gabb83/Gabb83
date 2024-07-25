@@ -2,12 +2,20 @@
 
 ## Olá, eu me chamo Gabriel
 
+| <img src="https://github-readme-stats.vercel.app/api?username=Gabb83&show_icons=true&theme=tokyonight"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb83&layout=compact&theme=tokyonight">| <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabb83&theme=tokyonight"> |
+| :-: | :-: | :-: |
+
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabb83&theme=tokyonight"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabb83&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3"> |
+| :-: | :-: |
+
 Eu sou estudante de Ciências da Computação pelo Centro Universitário de João Pessoa (UNIPÊ) e atualmente curso o 2° período. Estou estudando com foco em desenvolvimento Front-End e seus pilares, e Back-End Java.
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabb83&show_icons=true&theme=tokyonight">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb83&layout=compact&theme=tokyonight">
 </div>
+
+
 
 ## 🎃 Tecnologias 🌟
 ### Tecnologias Certificadas
