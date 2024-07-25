@@ -1,4 +1,8 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Gabb83&color=ff69b4"><br>
+
 ## Olá, eu me chamo Gabriel
+
+Eu sou estudante de Ciências da Computação pelo Centro Universitário de João Pessoa (UNIPÊ) e atualmente curso o 2° período. Estou estudando com foco em desenvolvimento Front-End e seus pilares, e Back-End Java.
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabb83&show_icons=true&theme=tokyonight">
