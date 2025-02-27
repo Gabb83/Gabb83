@@ -36,8 +36,6 @@ Eu sou estudante de Ciências da Computação pelo Centro Universitário de Joã
     alt="c" algin="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
     alt="github" algin="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-    alt="windows" algin="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
     alt="vscode" algin="center">
 </div>
