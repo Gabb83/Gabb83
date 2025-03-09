@@ -2,7 +2,7 @@
 
 ## Olá, eu me chamo Gabriel
 
-Eu sou estudante de Ciências da Computação pelo Centro Universitário de João Pessoa (UNIPÊ) e atualmente curso o 2° período. Estou estudando com foco em desenvolvimento Front-End e seus pilares, e Back-End Java.
+Eu sou estudante de Ciência da Computação pelo Centro Universitário de João Pessoa (UNIPÊ) e atualmente curso o 4° período. Estou estudando com foco em desenvolvimento Front-End e seus pilares, e Back-End Java.
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Gabb83&show_icons=true&theme=tokyonight"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabb83&theme=tokyonight"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb83&layout=compact&theme=tokyonight"> |
 | :-: | :-: | :-: |
