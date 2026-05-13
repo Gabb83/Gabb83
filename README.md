@@ -14,4 +14,15 @@ Eu sou graduando em Ciência da Computação pelo Centro Universitário de João
 - React, Next, Tailwind CSS, Bootstrap, React Native
 - Java, TypeScript, Node, Nest
 - SQL, MySQL, PostgreSQL, Git, GitHub e GitLab
-<!--https://dev.to/envoy_/150-badges-for-github-pnk-->
+
+## 🔗 Portfólio e Contatos
+
+<p align="left">
+  <a href="https://portfolio-a22s.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="https://lattes.cnpq.br/2579424377450654" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
