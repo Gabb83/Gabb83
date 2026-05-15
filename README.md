@@ -26,3 +26,6 @@ Eu sou graduando em Ciência da Computação pelo Centro Universitário de João
     <img src="https://img.shields.io/badge/Lattes-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
+
+<!--https://shields.io/-->
+<!--https://github-readme-streak-stats.herokuapp.com-->
