@@ -25,8 +25,9 @@ Eu sou graduando em Ciência da Computação pelo Centro Universitário de João
   <a href="https://lattes.cnpq.br/2579424377450654" target="_blank">
     <img src="https://img.shields.io/badge/Lattes-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
-
-  <img src="https://img.shields.io/badge/Curriculo-8B0000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <a href="https://raw.githubusercontent.com/Gabb83/Gabb83/main/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Curriculo-8B0000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
 </p>
 
 <!--https://shields.io/-->
