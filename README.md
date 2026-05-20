@@ -12,7 +12,7 @@ Eu sou graduando em Ciência da Computação pelo Centro Universitário de João
 ## 🌟 Tecnologias | Stacks 
 - HTML, CSS, JavaScript
 - React, Next, Tailwind CSS, Bootstrap, React Native
-- Java, TypeScript, Node, Nest
+- Java, TypeScript, Node, Nest, Python e Django
 - SQL, MySQL, PostgreSQL, Git, GitHub e GitLab
 
 ## 🔗 Portfólio e Contatos
