@@ -10,10 +10,10 @@ Eu sou graduando em Ciência da Computação pelo Centro Universitário de João
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabb83&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabb83&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=Gabb83&theme=vue-dark) |
 
 ## 🌟 Tecnologias | Stacks 
-- HTML, CSS, JavaScript
-- React, Next, Tailwind CSS, Bootstrap, React Native
-- Java, TypeScript, Node, Nest, Python e Django
-- SQL, MySQL, PostgreSQL, Git, GitHub e GitLab
+- HTML, CSS, JavaScript.
+- React, Next, Tailwind CSS, Bootstrap, React Native.
+- Java, TypeScript, Node, Nest, Python e Django.
+- SQL, MySQL, PostgreSQL, Git, GitHub e GitLab.
 
 ## 🔗 Portfólio e Contatos
 
