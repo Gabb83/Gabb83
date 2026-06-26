@@ -30,6 +30,6 @@ Eu sou graduando em Ciência da Computação pelo Centro Universitário de João
   </a>
 </p>
 
-<!--https://shields.io/-->
-<!--https://github-readme-streak-stats.herokuapp.com-->
-<!--https://github.com/antonkomarev/github-profile-views-counter-->
+<!--https://shields.io/ ... -->
+<!--https://github-readme-streak-stats.herokuapp.com ... -->
+<!--https://github.com/antonkomarev/github-profile-views-counter ... -->
