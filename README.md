@@ -45,5 +45,7 @@ Previously, I worked as a Front-end Developer in the same project, contributing 
 </p>
 
 <!--https://shields.io/ ... -->
+<!--https://shields.io/ ... -->
+<!--https://github-readme-streak-stats.herokuapp.com ... -->
 <!--https://github-readme-streak-stats.herokuapp.com ... -->
 <!--https://github.com/antonkomarev/github-profile-views-counter ... -->
