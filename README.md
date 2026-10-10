@@ -23,9 +23,9 @@ Previously, I worked as a Front-end Developer in the same project, contributing 
 
 ## 🌟 Tecnologias | Stacks 
 
-<div>
+<div align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,angular,tailwind,html,css,javascript,typescript,java,python,nodejs,nest,github,gitlab,git" />
+    <img src="https://skillicons.dev/icons?i=react,next,angular,tailwind,javascript,typescript,java,spring,python,nodejs,nest,postgres,git,docker" />
   </a>
 </div>
 
